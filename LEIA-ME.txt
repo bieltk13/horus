@@ -1,0 +1,5 @@
+HORUS GYM — SITE ONE PAGE
+Abra index.html no navegador ou publique todos os arquivos mantendo a pasta assets.
+A página inclui navegação responsiva, links contextuais de WhatsApp, mapa/rota para Google Maps, galeria ampliável, seção “Como começar”, modalidades, avaliações, horários na seção de contato e rodapé com redes e contato.
+Não foram incluídos preços. Os cards de planos da prévia foram substituídos por etapas para começar na academia.
+A logo foi recortada do print fornecido e teve o fundo removido; por estar em baixa resolução, recomenda-se substituir por arquivo original vetorial antes de publicação. Fotografias são ilustrativas e carregadas do Unsplash. Confirme horários, endereço e nota de avaliação antes de publicar.
